@@ -9,6 +9,9 @@
     "componentsPath": "src/components",
     "templatesPath": "src/_codux/component-templates"
   },
+  "addPanel": {
+    "assets": ["@codux-boards/react-semantic", "@codux-boards/react-nivo"]
+  },
   "safeRender": {
     "maxInstancesPerComponent": 1000
   },
