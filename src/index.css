@@ -1,6 +1,9 @@
+/* Uncomment the directives below to enable tailwind in this project */
+/* 
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; 
+*/
 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
